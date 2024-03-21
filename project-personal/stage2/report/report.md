@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Второй этап индивидуального проекта"
-subtitle: " Создание сайт"
+subtitle: " Создание сайт "
 author: "Разанацуа Сара Естэлл"
 
 ## Generic otions
